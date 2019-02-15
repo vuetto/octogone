@@ -1,0 +1,16 @@
+{
+  "main.css": "/octogone/static/css/main.8c2f8042.chunk.css",
+  "main.js": "/octogone/static/js/main.5919e350.chunk.js",
+  "main.js.map": "/octogone/static/js/main.5919e350.chunk.js.map",
+  "static/js/1.6cab3927.chunk.js": "/octogone/static/js/1.6cab3927.chunk.js",
+  "static/js/1.6cab3927.chunk.js.map": "/octogone/static/js/1.6cab3927.chunk.js.map",
+  "runtime~main.js": "/octogone/static/js/runtime~main.d52415a3.js",
+  "runtime~main.js.map": "/octogone/static/js/runtime~main.d52415a3.js.map",
+  "static/css/main.8c2f8042.chunk.css.map": "/octogone/static/css/main.8c2f8042.chunk.css.map",
+  "static/media/slide_one.jpg": "/octogone/static/media/slide_one.d63c86ed.jpg",
+  "static/media/slide_three.jpg": "/octogone/static/media/slide_three.1c58ef4a.jpg",
+  "static/media/slide_two.jpg": "/octogone/static/media/slide_two.f4de3acc.jpg",
+  "index.html": "/octogone/index.html",
+  "precache-manifest.a157d86d39d3707d7c94d5dfb2d51556.js": "/octogone/precache-manifest.a157d86d39d3707d7c94d5dfb2d51556.js",
+  "service-worker.js": "/octogone/service-worker.js"
+}
